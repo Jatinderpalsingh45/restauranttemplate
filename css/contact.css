@@ -1,0 +1,106 @@
+
+#nav{
+    background-color: transparent !important;
+    padding: 1.0rem;
+    padding-top: 1.0rem;
+    color: rgb(0, 0, 0) !important;
+}
+.nav-link{
+    color: rgb(0, 0, 0) !important;
+}
+
+.navbar-brand{
+    color: rgb(0, 0, 0) !important;
+}
+
+#icons{
+    margin-right: 23px !important;
+    margin-top: .5rem;
+}
+#btn{
+    background-color: #5D5E6B;
+    border: none;
+}
+#screen1{
+    height: 20.0rem;
+    background-image: url(/img/contact.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+#screen2{
+    height: 100vh;
+    padding-top: 4.0rem;
+}
+#getintouch{
+    font-size: 18px;
+    font-weight: 500;
+}
+#contacts{
+    font-size: 18px;
+}
+
+#content{
+    margin-left: -121px;
+}
+
+#img{
+    width: 55%;
+    margin-top: 4.0rem;
+}
+
+
+
+
+#left{
+    margin-top: 5.0rem;
+}
+h1{
+    font-size: 42px !important;
+}
+
+p{
+    font-size: 20px;
+    margin-top: 1.0rem !important;
+}
+
+#footer{
+    height: 15.0rem;
+    padding-top: 4.0rem;
+    padding-left: 4.0rem;
+    background-color: rgb(238, 237, 235);
+    margin-top: 13.0rem;
+    width: 100%;
+}
+
+#footer h4{
+    font-size: 26px;
+}
+
+#footer p{
+    font-size: 16px !important;
+}
+#socialfooter{
+    padding: 20px;
+}
+#footer .nav-link{
+    color:  #000 !important;
+}
+h6{
+    margin-left: -7px;
+} 
+
+@media (min-width: 576px) {
+    #img1{
+        display: none;
+    }
+    footer{
+        width: 100%;
+    }
+    #navbarSupportedContent{
+        padding: 0 !important;
+    }
+    #icons {
+        margin: 0;
+    }
+}
