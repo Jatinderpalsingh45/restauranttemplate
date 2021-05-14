@@ -198,6 +198,89 @@ h6{
 }
 #screen1{
     padding: 3.0rem;
+    padding-top: 4.0rem;
+}
+#screen2{
+    padding: 3.0rem;
+    height: 50.0rem;
+}
+#pic{
+    width: 100% !important;
+}
+#img{
+    width: 70% !important;
+    margin-left: 9.0rem;
+    margin-top: 3.0rem;
+}
+h1{
+    font-size: 54px !important;
+}
+.carousel{
+    width: 100% !important;
+}
+.carousel-control-prev-icon{
+    background-color:  #000 !important;
+}
+.carousel-control-next-icon{
+    background-color:  #000 !important;
+}
+#footer{
+    height: 15.0rem;
+    padding-top: 4.0rem;
+    padding-left: 4.0rem;
+    background-color: rgb(238, 237, 235);
+}
+
+#footer h4{
+    font-size: 26px;
+}
+
+#footer p{
+    font-size: 16px !important;
+}
+#socialfooter{
+    padding: 20px;
+}
+#footer .nav-link{
+    color:  #000 !important;
+}
+h6{
+    margin-left: -7px;
+}
+
+
+}
+@media (min-width: 1200px) {
+    #nav{
+    background-color: transparent !important;
+    padding: 1.0rem;
+    padding-top: 1.0rem;
+    color: rgb(0, 0, 0) !important;
+}
+.nav-link{
+    color: rgb(0, 0, 0) !important;
+}
+
+.navbar-brand{
+    color: rgb(0, 0, 0) !important;
+}
+
+#icons{
+    margin-right: 23px !important;
+    margin-top: .5rem;
+    color: #000;
+}
+#ficons{
+    margin-right: 23px !important;
+    margin-top: .5rem;
+    color: #000;
+}
+#btn{
+    background-color: #5D5E6B;
+    border: none;
+}
+#screen1{
+    padding: 3.0rem;
 }
 #screen2{
     padding: 3.0rem;
@@ -246,9 +329,7 @@ h6{
 }
 
 
-}
-
-
+    }
 /* // XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) { 
     #nav{
@@ -330,3 +411,4 @@ h6{
 
 
     }
+

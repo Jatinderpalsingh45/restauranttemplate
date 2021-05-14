@@ -186,6 +186,80 @@
     }
     
     #screen1{
+        padding-top: 6.0rem;
+    }
+    
+    #menu{
+        margin-top: 3.0rem;
+        padding-top: 3.0rem;
+        font-size: 23px;
+    }
+    
+    #items{
+        margin-top: 3.0rem;
+        margin-bottom: 3.0rem;
+    }
+    
+    #heading{
+        background-color: rgb(255, 255, 255) !important;
+        border: 1px solid #000;
+        text-align: center;
+        font-size: 42px;
+    }
+    
+    #footer{
+        height: 15.0rem;
+        padding-top: 4.0rem;
+        padding-left: 4.0rem;
+        background-color: rgb(238, 237, 235);
+    }
+    
+    #footer h4{
+        font-size: 26px;
+    }
+    
+    #footer p{
+        font-size: 16px !important;
+    }
+    #socialfooter{
+        padding: 20px;
+    }
+    #footer .nav-link{
+        color:  #000 !important;
+    }
+    h6{
+        margin-left: -7px;
+    }
+ }
+ @media (min-width: 1200px) { 
+    #nav{
+        background-color: transparent !important;
+        padding: 1.0rem;
+        padding-top: 1.0rem;
+        color: rgb(0, 0, 0) !important;
+    }
+    .nav-link{
+        color: rgb(0, 0, 0) !important;
+    }
+    
+    .navbar-brand{
+        color: rgb(0, 0, 0) !important;
+    }
+    #btn{
+        background-color: #5D5E6B;
+        border: none;
+    }
+    #icons{
+        margin-right: 23px !important;
+        margin-top: .5rem;
+        color: #000 !important;
+    }
+    #ficons{
+        margin-right: 23px !important;
+        margin-top: .5rem;
+        color: #000 !important;
+    }
+    #screen1{
         padding: 3.0rem;
     }
     
@@ -227,7 +301,8 @@
     h6{
         margin-left: -7px;
     }
- }
+    
+     }
  @media (min-width: 1400px) { 
 #nav{
     background-color: transparent !important;
@@ -300,3 +375,5 @@ h6{
 }
 
  }
+
+ 
